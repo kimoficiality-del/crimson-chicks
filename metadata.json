@@ -1,0 +1,11 @@
+{
+  "name": "Crimson Chicken",
+  "description": "A premium fast-food restaurant experience inspired by classic American chicken traditions. Order online, find locations, and explore our delicious menu.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "shopping_cart",
+    "maps"
+  ]
+}
